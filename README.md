@@ -1,5 +1,15 @@
 # EcoTaxi
 
+<p align="center">
+  <a href="https://github.com/shutovBro/EcoTaxi/actions/workflows/ci.yml"><img src="https://github.com/shutovBro/EcoTaxi/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI"></a>
+  <a href="https://ecotaxi-mu.vercel.app"><img src="https://img.shields.io/badge/Live_demo-Vercel-000000?logo=vercel&logoColor=white" alt="Live demo"></a>
+  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" alt="React 19">
+  <img src="https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white" alt="Vite 8">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind 4">
+</p>
+
+**Live demo:** https://ecotaxi-mu.vercel.app
+
 Интерактивный прототип мобильного приложения пассажира сервиса экологического
 такси. Собран в Figma Make, работает как обычное React-приложение.
 
